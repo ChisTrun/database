@@ -12,7 +12,7 @@ import (
 	"github.com/go-sql-driver/mysql"
 	"go.uber.org/zap"
 
-	database "github.com/chistrun/database/api"
+	database "github.com/ChisTrun/database/api"
 	"github.com/ChisTrun/logger/pkg/logging"
 )
 

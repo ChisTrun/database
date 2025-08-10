@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package greyhole.database;
 
-option go_package = "github.com/chistrun/database/api;database";
+option go_package = "github.com/ChisTrun/database/api;database";
 
 import "validate/validate.proto";
 

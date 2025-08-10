@@ -17,7 +17,7 @@ import (
 	"github.com/go-sql-driver/mysql"
 	sqltrace "gopkg.in/DataDog/dd-trace-go.v1/contrib/database/sql"
 
-	carbon "github.com/chistrun/database/api"
+	carbon "github.com/ChisTrun/database/api"
 )
 
 func Open(name string, cfg *carbon.Database) (*entsql.Driver, error) {

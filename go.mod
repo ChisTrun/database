@@ -1,10 +1,10 @@
-module github.com/chistrun/database
+module github.com/ChisTrun/database
 
 go 1.24.4
 
 require (
 	entgo.io/ent v0.14.5
-	github.com/ChisTrun/logger v0.0.0-20250810115018-2248d59e8b89
+	github.com/ChisTrun/logger v1.0.2
 	github.com/DataDog/datadog-go v4.8.3+incompatible
 	github.com/aws/aws-sdk-go-v2/config v1.30.3
 	github.com/aws/aws-sdk-go-v2/feature/rds/auth v1.6.2
