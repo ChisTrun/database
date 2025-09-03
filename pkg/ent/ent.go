@@ -106,3 +106,4 @@ func loadAwsRDSCAPem() ([]byte, error) {
 
 	return io.ReadAll(resp.Body)
 }
+
